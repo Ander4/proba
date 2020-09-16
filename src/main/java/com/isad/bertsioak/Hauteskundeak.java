@@ -3,7 +3,7 @@ package com.isad.bertsioak;
 import java.util.ArrayList;
 
 public class Hauteskundeak {
-
+//HOLIS!!!!!!!!!!!!!
 	private ArrayList<String> mahaiak = new ArrayList<>();
 
 	@Override
