@@ -4,6 +4,7 @@ import java.util.ArrayList;
 
 public class Hauteskundeak {
 //HOLIS!!!!!!!!!!!!!
+	//HOLIS2222222222222222
 	private ArrayList<String> mahaiak = new ArrayList<>();
 
 	@Override
